@@ -19,7 +19,7 @@
         <form action="registro.php" method="post">
             <div class="row">
                 <div class="col">
-                    <label>Nome: </label>
+                    <label>Nome Completo: </label>
                     <input type="text" class="form-control" id="Nome" name="Nome"><br><br>                  
                 </div>
                 <div class="col">
