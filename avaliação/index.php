@@ -19,18 +19,15 @@
         <form action="registro.php" method="post">
             <div class="row">
                 <div class="col">
-                    <label>Nome Completo: </label>
-                    <input type="text" class="form-control" id="Nome" name="Nome"><br><br>                  
+                    <input type="text" class="form-control" id="Nome" name="Nome" placeholder="Nome Completo:"><br><br>                  
                 </div>
                 <div class="col">
-                    <label>R.A: </label>
-                    <input type="text" class="form-control" id="Ra" name="Ra"><br><br>
+                    <input type="text" class="form-control" id="Ra" name="Ra" placeholder="R.A:"><br><br>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
-                    <label>Placa: </label>
-                    <input type="text" class="form-control" id="Placa" name="Placa"><br><br>
+                    <input type="text" class="form-control" id="Placa" name="Placa" placeholder="Placa do veículo:"><br><br>
                 </div>
                
             <input type="submit" value="Registrar Aluno">
